@@ -1,5 +1,5 @@
 # MediaMov
-It shows the integration of mediapipe libraries with opencv, resulting detection of movements in the body, it spefically aims for the identification of nose and hands.
+It shows the integration of mediapipe library with opencv, resulting detection of movements in the body, it spefically aims for the identification of nose and hands.
 
 <B> IMAGES AND VIDEO </B> 
 
