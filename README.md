@@ -1,5 +1,5 @@
 <h1> MediaMoV </h1> 
-Detection of movements in the body, it spefically aims for the identification of nose and hands.
+Detection of movements in the body, it aims on the identification of nose and hands.
 
 <B> IMAGES AND VIDEO </B> 
 
