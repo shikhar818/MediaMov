@@ -2,7 +2,7 @@
 Detection of movements in the body, it aims on the identification of nose and hands.
 
 
-<B><h5> IMAGES AND VIDEO</h5> </B> 
+<B><h5> Screenshots </h5> </B> 
 
 ![1](https://github.com/shikhar818/MediaMov/assets/68017263/51d2d7a6-eaa8-4817-b779-c3380009641b)
 
